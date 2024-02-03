@@ -1,5 +1,6 @@
 
-# Gear Template for Dapps 
+# Decentralized voting system 📜
+## Developed by JEL:Team
 
 
 ## Description
