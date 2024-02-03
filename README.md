@@ -3,5 +3,5 @@
 ## Developed by JEL:Team
 
 
-## Description
+## A decentralized voting system using Vara Network. 🖥️
 
