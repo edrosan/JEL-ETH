@@ -3,6 +3,7 @@
 ## Developed by JEL:Team
 
 ## A decentralized voting system using Vara Network. 🖥️
+[Vara Network](https://vara.network/ )
 
 ### Clone repository
 `git clone https://github.com/edrosan/JEL-Team.git` 
