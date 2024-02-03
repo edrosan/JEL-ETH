@@ -5,7 +5,7 @@
 ## A decentralized voting system using Vara Network. 🖥️
 [Vara Network](https://vara.network/ )
 
-![](URL "https://raw.githubusercontent.com/edrosan/JEL-Team/main/public/recursos/img/725shots_so.png")
+![](https://raw.githubusercontent.com/edrosan/JEL-Team/main/public/recursos/img/725shots_so.png)
 
 ### Clone repository
 `git clone https://github.com/edrosan/JEL-Team.git` 
