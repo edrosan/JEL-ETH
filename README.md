@@ -5,4 +5,13 @@
 
 ## A decentralized voting system using Vara Network. 🖥️
 
-`Código` yarn install
+###Clone repository
+`git clone https://github.com/edrosan/JEL-Team.git` 
+
+
+###Install Node dependencies
+`yarn install` 
+
+
+
+
