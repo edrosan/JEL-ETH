@@ -8,6 +8,8 @@
 ### Clone repository
 `git clone https://github.com/edrosan/JEL-Team.git` 
 
+### Install yarn
+`npm install --global yarn`
 
 ### Install Node dependencies
 `yarn install` 
