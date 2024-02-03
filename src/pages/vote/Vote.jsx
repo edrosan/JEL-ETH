@@ -1,18 +1,8 @@
-import { Badge, Button, Card, PlayButton, Progress } from "keep-react";
-import {
-  ArrowsOutSimple,
-  Bed,
-  Heart,
-  MapPinLine,
-  Play,
-  Rows,
-  ShoppingCart,
-  Shower,
-  SkipBack,
-  SkipForward,
-  SpeakerHigh,
-  Users,
-} from "phosphor-react";
+import { GearApi } from "@gear-js/api";
+import { useEffect, useState } from "react";
+import { useAccount } from "@gear-js/react-hooks";
+import { Link } from "react-router-dom";
+
 
 function Surveys() {
   return (
@@ -51,8 +41,8 @@ function Survey() {
         <p className="mb-3 font-normal text-gray-700 ">
           They dispute the place of your representative
         </p>
-        <a
-          href="/"
+        <Link
+          to="/vote/test"
           className=" inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white  bg-emerald-500 rounded-md hover:bg-emerald-600 focus:ring-4 focus:ring-emerald-400"
         >
           vote now
@@ -71,11 +61,12 @@ function Survey() {
               d="M1 5h12m0 0L9 1m4 4L9 9"
             />
           </svg>
-        </a>
+        </Link>
       </div>
     </div>
   );
 }
+
 
 function Vote() {
   return (

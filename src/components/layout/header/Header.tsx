@@ -22,6 +22,7 @@ function Menu() {
       <OptionMenu to="/">Home</OptionMenu>
       <OptionMenu to="/about">About Us</OptionMenu>
       <OptionMenu to="/vote">Surveys</OptionMenu>
+      <OptionMenu to="/account">Account</OptionMenu>
     </ul>
   );
 }
