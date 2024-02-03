@@ -2,7 +2,6 @@
 # Decentralized voting system 📜
 ## Developed by JEL:Team
 
-
 ## A decentralized voting system using Vara Network. 🖥️
 
 ### Clone repository
@@ -11,6 +10,9 @@
 
 ### Install Node dependencies
 `yarn install` 
+
+### Run development server
+`yarn start` 
 
 
 
