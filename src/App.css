@@ -2,7 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: "BebasNeue";
+  src: url("/static/fonts/BebasNeue-Regular.ttf");
+}
+
 #root {
+  box-sizing: content-box;
+}
+
+/* #root {
   max-width: 1400px;
   min-height: 100vh;
   margin: 0 auto;
@@ -36,4 +45,4 @@ body {
   100% {
     background-position: 0% 50%;
   }
-}
+} */
