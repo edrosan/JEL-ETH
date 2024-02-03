@@ -5,3 +5,4 @@
 
 ## A decentralized voting system using Vara Network. 🖥️
 
+`Código` yarn install
