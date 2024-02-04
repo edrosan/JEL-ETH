@@ -1,34 +1,31 @@
 
 
+function Card({ title }: { title: string }) {
+    return (
+        <div className="bg-white flex flex-col gap-4 p-4 rounded-lg border shadow">
+            <span className="font-medium text-xl">{title}</span>
 
-import { Pie } from 'react-chartjs-2';
-
-
-
+            <button type="button" disabled className="px-4 py-2 bg-slate-300 rounded-md text-slate-700 cursor-not-allowed">Closed</button>
+        </div>
+    )
+}
 
 function VoteSoda() {
+    
 
     return (
-        <div>
-            Soda
-            {/* <Pie data={{
-                labels: ['Carne', 'Jamon'],
-                datasets: [
-                    {
-                        label: 'Pop',
-                        data: [45, 55],
-                        backgroundColor: [
-                            'rgba(255,99,132,0.2)',
-                            'rgba(255,206,86,0.2)'
-                        ],
-                        borderColor: [
-                            'rgba(255,99,132,1)',
-                            'rgba(255,206,86,1'
-                        ],
-                        borderWidth: 1,
-                    }
-                ]
-            }} /> */}
+        <div className='w-[1200px] flex flex-col items-center justify-center'>
+            <h2 className='font-medium text-2xl'>Soda is harmful to health?</h2>
+
+            <div className="flex gap-4 mt-8">
+                <Card title="Yeah! I agree" />
+
+                <Card title="No I love soda" />
+            </div>
+
+            <div>
+                <span>Total votes: </span>
+            </div>
         </div>
     )
 }
