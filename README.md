@@ -24,7 +24,9 @@
 
 ### ---Back | Vara Network---
 ## Rust files
+### Navigate to folder
 `cd voting-system-rust` 
+### Compile the files
 `cargo build --release` 
 
 
