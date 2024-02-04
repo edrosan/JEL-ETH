@@ -1,9 +1,0 @@
-/mnt/c/Users/User/Desktop/rust/prueba/Vara-Integration-ETH-Hackathon-2024/03-Semaforo-Tutorial/Semaforo-Contract/target/wasm-projects/release/release/deps/libiana_time_zone-111a27ab9606f8f6.rmeta: /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.59/src/lib.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.59/src/ffi_utils.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.59/src/tz_linux.rs
-
-/mnt/c/Users/User/Desktop/rust/prueba/Vara-Integration-ETH-Hackathon-2024/03-Semaforo-Tutorial/Semaforo-Contract/target/wasm-projects/release/release/deps/libiana_time_zone-111a27ab9606f8f6.rlib: /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.59/src/lib.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.59/src/ffi_utils.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.59/src/tz_linux.rs
-
-/mnt/c/Users/User/Desktop/rust/prueba/Vara-Integration-ETH-Hackathon-2024/03-Semaforo-Tutorial/Semaforo-Contract/target/wasm-projects/release/release/deps/iana_time_zone-111a27ab9606f8f6.d: /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.59/src/lib.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.59/src/ffi_utils.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.59/src/tz_linux.rs
-
-/home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.59/src/lib.rs:
-/home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.59/src/ffi_utils.rs:
-/home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.59/src/tz_linux.rs:
