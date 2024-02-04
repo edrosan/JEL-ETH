@@ -9,7 +9,7 @@ type Props = {
 function OptionMenu({ to, children }: { to: string; children: string }) {
   return (
     <li>
-      <Link to={to} className="p-2 rounded-lg bg-transparent hover:bg-emerald-200/50 hover:transition-colors">
+      <Link to={to} className="p-2 rounded-lg bg-transparent hover:bg-emerald-300/70 hover:transition-colors">
         {children}
       </Link>
     </li>

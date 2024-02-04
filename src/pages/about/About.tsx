@@ -17,16 +17,18 @@ function Member({
   name,
   description,
   children,
+  src
 }: {
   name: string,
   description: string,
   children?: ReactElement ,
+  src : string
 }) {
   return (
       <div className="flex gap-4">
-          <div className="w-[300px] h-[200px] overflow-hidden rounded-lg">
+          <div className="w-[200px] h-[200px] overflow-hidden rounded-3xl">
               <img
-                  src="https://images.unsplash.com/photo-1706773183831-223a782307ec?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                  src={src}
                   alt={name}
                   className="w-full h-full object-cover"
               />
@@ -42,31 +44,30 @@ function Member({
 
 function Members() {
   return (
-    <div className="flex flex-col gap-4">
+    <div className="flex flex-col gap-4 mb-2">
       <h2 className="text-3xl font-bold">Members</h2>
       <Member
-        name="Jonathan"
-        description="Jonathan is a computer science student at the University of Havana. He
-        is passionate about programming and technology. He is the front-end
-        developer of the team."
+        name="Jonathan Tellez"
+        description="Team leader and backend developer."
+        src="/recursos/img/members/joni.png"
       >
-        <Badge>Front-end developer</Badge>
+        <Badge>Backend</Badge>
       </Member>
       <Member
-        name="Luis"
-        description="Jonathan is a computer science student at the University of Havana. He
-        is passionate about programming and technology. He is the front-end
-        developer of the team."
+        name="Luis Alcantar"
+        description="Computer science student at BUAP. He is passionate about programming and technology. He is the backend developer of the team."
+        src="/recursos/img/members/luis.png"
       >
-        <Badge>Front-end developer</Badge>
+        <Badge>Backend</Badge>
       </Member>
       <Member
-        name="Eduardo"
-        description="Jonathan is a computer science student at the University of Havana. He
-        is passionate about programming and technology. He is the front-end
+        name="Eduardo Rodriguez"
+        description="Computer science student at BUAP. He
+        is passionate about programming and technology. He is the frontend
         developer of the team."
+        src="/recursos/img/members/lalo.jpeg"
       >
-        <Badge>Front-end developer</Badge>
+        <Badge>Frontend</Badge>
       </Member>
     </div>
   )
@@ -77,7 +78,7 @@ function JelDescription() {
       <>
           <div className="w-[800px] rounded-3xl overflow-hidden">
               <img
-                  src="/recursos/logo-shot-2.png"
+                  src="/recursos/221shots_so.png"
                   alt="JEL"
                   className="w-full h-full object-cover"
               />
