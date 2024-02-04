@@ -5,6 +5,7 @@ import { Vote } from "./vote";
 import { About } from "./about";
 import { Account } from "./account";
 import { VoteTest } from "./voteTest";
+import { VoteSoda } from "./voteSoda";
 
 const routes = [
   { path: "/", Page: Home },
@@ -12,6 +13,7 @@ const routes = [
   { path: "/about", Page: About},
   { path: "/vote", Page: Vote },
   { path: "/vote/test", Page: VoteTest },
+  { path: "/vote/soda", Page: VoteSoda },
   { path: "/account", Page: Account },
 
 ];

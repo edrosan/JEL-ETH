@@ -53,7 +53,7 @@ function Survey({ isActive, src, alt, title, description }: { isActive: boolean,
 
           {
             !isActive ?
-              <Link to="/" className={`inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white rounded-md bg-emerald-500  hover:bg-emerald-600 focus:ring-4 focus:ring-emerald-400 `}>show results</Link>
+              <Link to="/vote/soda" className={`inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white rounded-md bg-emerald-500  hover:bg-emerald-600 focus:ring-4 focus:ring-emerald-400 `}>show results</Link>
               : null
           }
         </div>

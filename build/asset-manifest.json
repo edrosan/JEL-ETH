@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.155bb861.css",
+    "main.js": "/static/js/main.9a38be05.js",
+    "static/media/BebasNeue-Regular.ttf": "/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
+    "static/media/gear.svg": "/static/media/gear.353e6ca38ebe90ede366.svg",
+    "static/media/discord.svg": "/static/media/discord.a85297e65544038a2c4eba0c54967071.svg",
+    "static/media/github.svg": "/static/media/github.60573504071ab797e60e6ca12386c056.svg",
+    "static/media/twitter.svg": "/static/media/twitter.c81afad03c8d93cab9dc0fb8c4c44f01.svg",
+    "static/media/medium.svg": "/static/media/medium.0a31f18febf7e4323883c2466df937ad.svg",
+    "index.html": "/index.html",
+    "main.155bb861.css.map": "/static/css/main.155bb861.css.map",
+    "main.9a38be05.js.map": "/static/js/main.9a38be05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.155bb861.css",
+    "static/js/main.9a38be05.js"
+  ]
+}
