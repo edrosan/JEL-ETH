@@ -1,0 +1,9 @@
+/mnt/c/Users/User/Desktop/rust/prueba/Vara-Integration-ETH-Hackathon-2024/03-Semaforo-Tutorial/Semaforo-Contract/target/wasm-projects/release/release/deps/libgear_wasm_instrument-95c1e5f8b2308925.rmeta: /home/jonart15/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/d02d306/utils/wasm-instrument/src/lib.rs /home/jonart15/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/d02d306/utils/wasm-instrument/src/rules.rs /home/jonart15/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/d02d306/utils/wasm-instrument/src/syscalls.rs
+
+/mnt/c/Users/User/Desktop/rust/prueba/Vara-Integration-ETH-Hackathon-2024/03-Semaforo-Tutorial/Semaforo-Contract/target/wasm-projects/release/release/deps/libgear_wasm_instrument-95c1e5f8b2308925.rlib: /home/jonart15/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/d02d306/utils/wasm-instrument/src/lib.rs /home/jonart15/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/d02d306/utils/wasm-instrument/src/rules.rs /home/jonart15/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/d02d306/utils/wasm-instrument/src/syscalls.rs
+
+/mnt/c/Users/User/Desktop/rust/prueba/Vara-Integration-ETH-Hackathon-2024/03-Semaforo-Tutorial/Semaforo-Contract/target/wasm-projects/release/release/deps/gear_wasm_instrument-95c1e5f8b2308925.d: /home/jonart15/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/d02d306/utils/wasm-instrument/src/lib.rs /home/jonart15/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/d02d306/utils/wasm-instrument/src/rules.rs /home/jonart15/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/d02d306/utils/wasm-instrument/src/syscalls.rs
+
+/home/jonart15/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/d02d306/utils/wasm-instrument/src/lib.rs:
+/home/jonart15/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/d02d306/utils/wasm-instrument/src/rules.rs:
+/home/jonart15/.cargo/git/checkouts/gear-bdc2b7d48ef3acbd/d02d306/utils/wasm-instrument/src/syscalls.rs:

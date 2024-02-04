@@ -1,0 +1,10 @@
+/mnt/c/Users/User/Desktop/rust/prueba/Vara-Integration-ETH-Hackathon-2024/03-Semaforo-Tutorial/Semaforo-Contract/target/release/deps/libthiserror-1cbe3b1a2a90359e.rmeta: /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/lib.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/aserror.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/display.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/provide.rs
+
+/mnt/c/Users/User/Desktop/rust/prueba/Vara-Integration-ETH-Hackathon-2024/03-Semaforo-Tutorial/Semaforo-Contract/target/release/deps/libthiserror-1cbe3b1a2a90359e.rlib: /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/lib.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/aserror.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/display.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/provide.rs
+
+/mnt/c/Users/User/Desktop/rust/prueba/Vara-Integration-ETH-Hackathon-2024/03-Semaforo-Tutorial/Semaforo-Contract/target/release/deps/thiserror-1cbe3b1a2a90359e.d: /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/lib.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/aserror.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/display.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/provide.rs
+
+/home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/lib.rs:
+/home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/aserror.rs:
+/home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/display.rs:
+/home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/provide.rs:

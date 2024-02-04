@@ -1,0 +1,10 @@
+/mnt/c/Users/User/Desktop/rust/prueba/Vara-Integration-ETH-Hackathon-2024/03-Semaforo-Tutorial/Semaforo-Contract/target/wasm-projects/release/release/deps/liblog-2ebb86783e4295c3.rmeta: /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/lib.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/macros.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/serde.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/__private_api.rs
+
+/mnt/c/Users/User/Desktop/rust/prueba/Vara-Integration-ETH-Hackathon-2024/03-Semaforo-Tutorial/Semaforo-Contract/target/wasm-projects/release/release/deps/liblog-2ebb86783e4295c3.rlib: /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/lib.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/macros.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/serde.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/__private_api.rs
+
+/mnt/c/Users/User/Desktop/rust/prueba/Vara-Integration-ETH-Hackathon-2024/03-Semaforo-Tutorial/Semaforo-Contract/target/wasm-projects/release/release/deps/log-2ebb86783e4295c3.d: /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/lib.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/macros.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/serde.rs /home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/__private_api.rs
+
+/home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/lib.rs:
+/home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/macros.rs:
+/home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/serde.rs:
+/home/jonart15/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.20/src/__private_api.rs:
