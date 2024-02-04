@@ -22,6 +22,10 @@
 ### Run development server
 `yarn start` 
 
+### ---Back | Vara Network---
+## Rust files
+`cargo build --release` 
+
 
 
 
